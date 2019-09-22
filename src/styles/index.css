@@ -82,6 +82,10 @@ input {
   text-decoration: none;
 }
 
+.header-link:hover {
+  text-decoration: underline;
+}
+
 .header-button {
   margin-left: 0.25rem;
   color: black;
